@@ -1,5 +1,5 @@
 {
-  "name": "BookList_Backend",
+  "name": "booklist_backend",
   "version": "1.0.0",
   "description": "This is the backend which I've created using ExpressJS and some other great libraries such as nodemon, joi, etc. The frontend of this project is already created and published in my account which I'm planning to combine both in the future.",
   "main": "index.js",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/AshanGlenn94/BookList_Backend/issues"
   },
-  "homepage": "https://github.com/AshanGlenn94/BookList_Backend#readme"
+  "homepage": "https://github.com/AshanGlenn94/BookList_Backend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
