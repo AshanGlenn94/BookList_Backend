@@ -4,7 +4,8 @@
   "description": "This is the backend which I've created using ExpressJS and some other great libraries such as nodemon, joi, etc. The frontend of this project is already created and published in my account which I'm planning to combine both in the future.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
