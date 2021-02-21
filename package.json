@@ -1,24 +1,16 @@
 {
-  "name": "booklist_backend",
+  "name": "hw1",
   "version": "1.0.0",
-  "description": "This is the backend which I've created using ExpressJS and some other great libraries such as nodemon, joi, etc. The frontend of this project is already created and published in my account which I'm planning to combine both in the future.",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/AshanGlenn94/BookList_Backend.git"
-  },
-  "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/AshanGlenn94/BookList_Backend/issues"
-  },
-  "homepage": "https://github.com/AshanGlenn94/BookList_Backend#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "joi": "^13.1.0",
+    "nodemon": "^2.0.7"
   }
 }
